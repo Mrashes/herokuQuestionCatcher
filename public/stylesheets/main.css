@@ -1,7 +1,6 @@
 .jumbotron {
   background: #532F8C;
-  color: white;
-  padding-bottom: 80px; }
+  color: white; }
   .jumbotron .btn-primary {
     background: #845ac7;
     border-color: #845ac7; }
@@ -25,3 +24,40 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
 
+.flexitem {
+  flex: 1 1;
+}
+
+.flex {
+  display: flex
+}
+
+.form {
+  font-size: 3em;
+}
+
+table {
+  width: 100%;
+}
+
+.lb-lg {
+  font-size: 20px;
+  width: 100%;
+}
+
+.input-group-prepend {
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.submit {
+  display: block;
+  margin: 30px auto;
+}
+
+hr {
+  margin-top: 0;
+}
